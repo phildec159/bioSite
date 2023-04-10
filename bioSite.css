@@ -1,0 +1,32 @@
+
+html {
+    background-color: #3FE8DA;
+}
+
+header {
+    background-color:lightcoral;
+}
+
+.container {
+    float: left;
+}
+
+.image-gallery {
+    float: right;
+}
+
+.description {
+    padding-top: 40px;
+}
+
+footer {
+    float: right;
+}
+
+figcaption {
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+}
